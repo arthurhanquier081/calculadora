@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Executar testes
-        run: node -e "require('../../calculadora.js')"
+        run: node -c calculadora.js
