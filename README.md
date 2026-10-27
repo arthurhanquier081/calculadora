@@ -39,4 +39,8 @@ Esta versão da branch inclui o novo design da interface:
    Acesse no navegador:
    Abra http://localhost:3000
 
-   
+   ## 🚀 Tecnologias
+* **CI/CD:** GitHub Actions (`.github/workflows/ci.yml`)
+
+## 📁 Estrutura do Projeto
+* `.github/workflows/ci.yml`: Workflow de automação e validação de código
